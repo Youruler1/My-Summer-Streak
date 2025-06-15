@@ -4,3 +4,5 @@
 
 [Live resources](https://www.thaparsummerschool.com/content) <br>
 [Previous resources](https://www.thaparsummerschool.com/previous-school) <br>
+
+[GitHub Ref Profile](https://github.com/Raghavgarg12?tab=repositories) <br>
